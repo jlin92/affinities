@@ -1,17 +1,17 @@
 {
-	"offer_type": {
-		"Restaurants": 40.0,
-    		"Japanese": 60.0,
-		"Return voucher": 50.0
-	},
-	"category": {
-		"Dining": 90.0,
-   		 "Offers": 80.0
-	},
-	"keywords": {
-		"Asian": 80.0,
-    		"Omakase": 50.0,
-    		"Discount": 80.0,
-		"Family": 60.0
-	}
+"offer_type": {
+"Restaurants": 40.0,
+"Japanese": 60.0,
+"Return voucher": 50.0
+},
+"category": {
+"Dining": 90.0,
+"Offers": 80.0
+},
+"keywords": {
+"Asian": 80.0,
+"Omakase": 50.0,
+"Discount": 80.0,
+"Family": 60.0
+}
 }
