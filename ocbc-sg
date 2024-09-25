@@ -1,0 +1,23 @@
+{
+	"brand": {
+		"Baby Mum Mum": 40.0,
+    "Woolworths": 60.0
+	},
+	"category": {
+		"Pantry": 90.0,
+    "Baby": 80.0
+	},
+	"special": {
+		"SPECIAL": 80.0,
+    "1/2 PRICE": 90.0
+	},
+	"keywords": {
+		"Gluten Free": 80.0,
+    "10 pack": 50.0,
+    "4 pack": 80.0
+	},
+  "label_text": {
+		"Low price": 50.0,
+    "Save $1.00": 80.0
+	}
+}
