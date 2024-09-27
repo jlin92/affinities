@@ -1,17 +1,21 @@
 {
 "offer_type": {
-"Restaurants": 40.0,
-"Japanese": 60.0,
-"Return voucher": 50.0
+  "Restaurants": 40.0,
+  "Japanese": 60.0,
+  "Discount": 50.0
 },
 "category": {
-"Dining": 90.0,
-"Offers": 80.0
+  "Dining": 90.0,
+  "Offers": 80.0,
+  "Credit Card": 60.0
 },
 "keywords": {
-"Asian": 80.0,
-"Omakase": 50.0,
-"Discount": 80.0,
-"Family": 60.0
+  "Asian": 80.0,
+  "Omakase": 40.0,
+  "Luxury Dining": 60.0,
+  "Sushi": 40.0
+},
+"card_type": {
+  "Rewards": 80.0,
 }
 }
