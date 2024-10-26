@@ -1,0 +1,18 @@
+{
+"persona_type": {
+  "Family": 50.0
+},
+"category": {
+  "Family Bundle": 80.0,
+  "Chickenjoy": 60.0,
+  "Spagetti": 60.0
+},
+"flavor": {
+  "Original": 40.0,
+  "Spicy": 20.0
+},
+"drink_type": {
+  "Tea": 20.0,
+  "Soda": 50.0
+}
+}
