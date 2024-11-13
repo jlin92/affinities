@@ -1,0 +1,18 @@
+{
+"country": {
+  "Malaysia": 50.0
+},
+"city": {
+  "Penang": 80.0
+},
+"brand": {
+  "Lyf": 50.0
+},
+"product_type": {
+  "Hotel room": 40.0
+},
+"hotel_keyword": {
+  "Sustainable property": 60.0,
+  "Trendy": 50.0
+}
+}
