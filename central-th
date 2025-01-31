@@ -1,0 +1,13 @@
+{
+"categories": {
+  "Beauty": 40.0,
+  "Skincare": 60.0
+},
+"brand": {
+  "CLARINS": 90.0
+},
+"skin_type": {
+  "Anti-aging": 80.0,
+  "Combination": 40.0
+}
+}
