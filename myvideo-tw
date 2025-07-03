@@ -1,0 +1,20 @@
+{
+"Categories": {
+   "C-Drama": 80.0,
+   "Series": 80.0
+ },
+ "Genre": {
+    "Romance": 50.0,
+    "Wuxia": 60.0,
+    "Melodrama": 40.0,
+    "Fantasy": 60.0
+ },
+ "Key CP": {
+    "Bailu": 70.0,
+     "Ao Rui Peng": 60.0
+ },
+"Theme": {
+     "Enemies to Lovers": 40.0,
+     "Demon Male Lead": 50.0
+ }
+}
