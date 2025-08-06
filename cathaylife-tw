@@ -1,0 +1,20 @@
+{
+"geographic": {
+  "Japan": 60.0,
+  "Asia": 50.0
+},
+"policy_duration": {
+  "Short-term": 30.0
+},
+"premium_type": {
+  "Single payment": 40.0
+},
+"insurance_type": {
+  "Travel": 80.0
+},
+"add_ons": {
+  "Overseas Illness": 20.0,
+  "Injury medical": 20.0,
+  "Medical air transport": 20.0
+}
+}
