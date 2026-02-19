@@ -1,0 +1,16 @@
+{
+"brand": {
+  "iPhone": 60.0,
+  "flagship": 50.0
+},
+"plan": {
+  "bespoke flexi": 60.0
+},
+"data usage": {
+  "high data": 50.0
+},
+"price_sensitivity": {
+  "$0 upfront": 40.0,
+  "deal hunter": 30.0
+}
+}
