@@ -1,0 +1,23 @@
+{
+"categories": {
+  "Essence & Serum": 60.0,
+  "Skincare": 70.0
+},
+"brand": {
+  "Torriden": 70.0
+},
+"skin_type": {
+  "Sensitive": 20.0,
+  "Combination": 60.0
+},
+"features": {
+  "Fragrance-free": 30.0,
+  "Vegan": 50.0,
+},
+"key_ingredients": {
+  "Hyaluronic acid": 50.0
+},
+"skin_concern": {
+  "Oiliness": 60.0
+}
+}
