@@ -4,7 +4,8 @@
   "Skincare": 70.0
 },
 "brand": {
-  "Torriden": 70.0
+  "Torriden": 70.0,
+  "Anua": 50.0,
 },
 "skin_type": {
   "Sensitive": 20.0,
@@ -15,7 +16,8 @@
   "Vegan": 50.0
 },
 "key_ingredients": {
-  "Hyaluronic acid": 50.0
+  "Hyaluronic acid": 60.0,
+  "PDRN": 40.0
 },
 "skin_concern": {
   "Oiliness": 60.0
