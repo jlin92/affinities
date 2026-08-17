@@ -1,0 +1,19 @@
+{
+"categories": {
+  "Air conditioner": 90.0,
+  "Humidifier": 20.0
+},
+"color": {
+  "White": 90.0,
+  "Silver": 10.0,
+  "Black": 20.0
+},
+"energy_saving_features": {
+  "Inverter technology": 70.0,
+  "Eco mode": 30.0
+},
+"comfort_features": {
+  "Quiet operation": 60.0,
+  "Sleep mode": 30.0
+}
+}
