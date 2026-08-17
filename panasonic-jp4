@@ -1,0 +1,19 @@
+{
+"categories": {
+  "Electric assist bike": 90.0,
+  "Cycling accessory": 20.0
+},
+"color": {
+  "Charcoal grey": 90.0,
+  "Silver": 10.0,
+  "Black": 20.0
+},
+"eco_features": {
+  "Rechargeable battery": 70.0,
+  "Low-emission transport": 30.0
+},
+"convenience_features": {
+  "Easy battery removal": 60.0,
+  "Compact storage": 30.0
+}
+}
