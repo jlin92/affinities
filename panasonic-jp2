@@ -1,0 +1,19 @@
+{
+"categories": {
+  "Hair dryer": 90.0,
+  "Curling iron": 20.0
+},
+"color": {
+  "White": 90.0,
+  "Pink gold": 10.0,
+  "Black": 20.0
+},
+"technology_features": {
+  "Nanoe technology": 70.0,
+  "Mineral ions": 30.0
+},
+"eco_features": {
+  "Energy-efficient drying": 60.0,
+  "Reduced drying time": 30.0
+}
+}
