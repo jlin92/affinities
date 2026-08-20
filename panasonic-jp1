@@ -1,0 +1,20 @@
+{
+"categories": {
+  "Rice cooker": 90.0,
+  "Refrigerator": 40.0,
+  "Kitchen appliance": 100.0
+},
+"color": {
+  "Pearl white": 90.0,
+  "Champagne": 10.0,
+  "Black": 20.0
+},
+"eco_features": {
+  "Energy-efficient": 50.0,
+  "Long-lasting freshness": 70.0
+},
+"convenience_features": {
+  "Quiet operation": 30.0,
+  "One-touch programs": 60.0
+}
+}
