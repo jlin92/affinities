@@ -1,28 +1,27 @@
 {
   "categories": {
-    "Dresses": 90.0,
-    "Day dresses": 75.0,
-    "Women's clothing": 60.0,
-    "Women's fashion": 50.0
+    "Tops": 90.0,
+    "Tank tops": 75.0,
+    "Women's clothing": 60.0
   },
   "brand": {
     "Country Road": 85.0
   },
   "color": {
-    "Deep khaki": 90.0,
-    "Olive green": 55.0,
+    "White": 90.0,
+    "Core neutrals": 55.0,
     "Neutral tones": 50.0
   },
   "style_attributes": {
-    "Elevated everyday": 70.0
+    "Everyday essentials": 70.0
   },
   "material": {
-    "Ponte knit": 70.0,
-    "Cotton blend": 40.0
+    "Ribbed cotton jersey": 70.0,
+    "Australian cotton blend": 55.0
   },
   "fit": {
-    "A-line": 65.0,
-    "Midi length": 60.0,
-    "Sleeveless": 45.0
+    "Slim fit": 70.0,
+    "Sleeveless": 65.0,
+    "Crew neckline": 50.0
   }
 }
